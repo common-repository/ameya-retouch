@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+#ameyaretouchcontainer {
+    z-index: 99999 !important;
+}
+#ameyaretouchmask {
+    z-index: 99999 !important;
+}
+.popup {
+    padding: 20px 30px;
+    font-size: larger;
+}
